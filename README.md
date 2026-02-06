@@ -86,25 +86,25 @@ Built with scalable architecture and modern UI design — similar to real SaaS h
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/homepage.png)
 
 ### 🔎 Public Jobs Page
-![Jobs](screenshots/jobs-page.png)
+![Jobs](Screenshots/jobs-page.png)
 
 ### 📝 Apply Job
-![Apply](screenshots/apply-job.png)
+![Apply](Screenshots/apply-job.png)
 
 ### 🧑‍💼 Recruiter Dashboard
-![Recruiter](screenshots/recruiter-dashboard.png)
+![Recruiter](Screenshots/recruiter-dashboard.png)
 
 ### ➕ Post New Job
-![Post Job](screenshots/post-job.png)
+![Post Job](Screenshots/post-job.png)
 
 ### 📊 Applicants Review
-![Applicants](screenshots/applicants-review.png)
+![Applicants](Screenshots/applicants-review.png)
 
 ### 📁 Job Seeker Dashboard
-![Dashboard](screenshots/jobseeker-dashboard.png)
+![Dashboard](Screenshots/jobseeker-dashboard.png)
 
 ---
 
